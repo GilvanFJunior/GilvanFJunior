@@ -9,6 +9,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GilvanFJunior&radius=16&theme=vue&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
 <h2 align="left"></h2>
 
 ###
@@ -30,12 +36,6 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/GilvanFJunior/GilvanFJunior/output/snake.svg" alt="Snake animation" />
 
 ###
 
